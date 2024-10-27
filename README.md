@@ -22,10 +22,12 @@ Here are some ideas to get you started:
   </tr>
   <td>
     👩🏻‍🎓 cs + film student @ ucla<br>
+    🤖 software engineer intern @ nvidia<br>
     📰 swe + photographer @ daily bruin<br>
     🛠️ developer + ux/ui designer @ la blueprint
   </td>
   <td>
+    🏔️ software engineer intern @ atlassian<br>
     🌎 software products intern @ esri<br>
     👩🏻‍💻 cybersecurity officer + pm @ acm
   </td>
